@@ -1,4 +1,4 @@
-# Hey there! 🐱
+# Hey there!
 
 My name is Alexis and I'm currently in vocational training to become a systems integrator. I'm based in Berlin.
 
@@ -11,7 +11,7 @@ I'm into Linux, networking and decentralized systems. Currently I'm working on a
 | Project | Description | Techstack |
 |---|---|---|
 | Alpine Router | Lightweight DIY router | Alpine, kea, bind9, Raspberry Pi 5 |
-| Portfolio | Personal website | Debian, Caddy, HTML, CSS |
+| [Portfolio](https://github.com/alexis-kouvakas/halloale.xyz) | Personal website | Debian, Caddy |
 
 ---
 
@@ -27,4 +27,4 @@ I'm into Linux, networking and decentralized systems. Currently I'm working on a
 ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat&logo=caddy&logoColor=white)
 ---
 
-📬 reach me at: **alexis@halloale.xyz**
+🌍 [halloale.xyz](https://halloale.xyz) · 📬 **alexis@halloale.xyz**
