@@ -1,1 +1,30 @@
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+# Hey there! 🐱
+
+My name is Alexis and I'm currently in vocational training to become a systems integrator. I'm based in Berlin.
+
+I'm into Linux, networking and decentralized systems. Currently I'm working on an Alpine Linux based DIY-router and my personal portfolio website.
+
+---
+
+## Projects
+
+| Project | Description | Techstack |
+|---|---|---|
+| Alpine Router | Lightweight DIY router | Alpine, kea, bind9, Raspberry Pi 5 |
+| Portfolio | Personal website | Debian, Caddy, HTML, CSS |
+
+---
+
+## Skills
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpine-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat)
+![BIND9](https://img.shields.io/badge/BIND9-0078D4?style=flat)
+![Kea DHCP](https://img.shields.io/badge/Kea_DHCP-0078D4?style=flat)
+![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat&logo=caddy&logoColor=white)
+---
+
+📬 reach me at: **alexis@halloale.xyz**
