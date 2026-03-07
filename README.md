@@ -10,7 +10,7 @@ I'm into Linux, networking and decentralized systems. Currently I'm working on a
 
 | Project | Description | Techstack |
 |---|---|---|
-| Alpine Router | Lightweight DIY router | Alpine, kea, bind9, Raspberry Pi 5 |
+| [Alpine Router](https://github.com/alexis-kouvakas/diy-alpine-router) | Lightweight DIY router | Alpine, kea, bind9, Raspberry Pi 5 |
 | [Portfolio](https://github.com/alexis-kouvakas/halloale.xyz) | Personal website | Debian, Caddy |
 
 ---
